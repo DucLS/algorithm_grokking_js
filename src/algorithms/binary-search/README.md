@@ -33,4 +33,4 @@ return null
 
 ## BigO
 
-O(n) = log(n)
+O($\log(n)$)
