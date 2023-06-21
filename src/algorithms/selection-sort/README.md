@@ -18,4 +18,4 @@ for (i = 0; i < arr.length - 1; i++) {
 
 ## BigO
 
-O(n) = n^2
+O($n^2$)

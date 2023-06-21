@@ -1,4 +1,4 @@
-import binarySearch from "@algorithms/binary-search/binary-search";
+import binarySearch from "@algorithms/binary-search/index";
 
 test("Should return null", () => {
   expect(binarySearch([1, 2, 3], 5)).toBeNull();

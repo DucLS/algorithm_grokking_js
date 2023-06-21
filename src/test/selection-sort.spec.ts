@@ -1,4 +1,4 @@
-import selectionSort from "@algorithms/selection-sort/selection-sort";
+import selectionSort from "@algorithms/selection-sort/index";
 
 test("Should return empty array", () => {
   expect(selectionSort([])).toStrictEqual([]);
